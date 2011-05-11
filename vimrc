@@ -6,7 +6,7 @@ call pathogen#runtime_append_all_bundles()
 " Custom Bindings
 map <F2> :NERDTreeToggle<CR>
 
-
+let g:neocomplcache_enable_at_startup = 1
 
 " Custom Config
 syntax on
