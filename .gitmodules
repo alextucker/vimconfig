@@ -4,3 +4,9 @@
 [submodule "bundle/neocomp"]
 	path = bundle/neocomp
 	url = git://github.com/Shougo/neocomplcache.git
+[submodule "bundle/piv"]
+	path = bundle/piv
+	url = https://github.com/spf13/PIV.git
+[submodule "bundle/supertab"]
+	path = bundle/supertab
+	url = https://github.com/ervandew/supertab.git
