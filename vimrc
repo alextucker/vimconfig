@@ -19,5 +19,8 @@ set smartindent
 let mapleader = "g"
 set hlsearch
 set incsearch
+set nobackup
+set nowritebackup
+set noswapfile
 
 colorscheme slate
