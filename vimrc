@@ -8,6 +8,7 @@ map <F2> :NERDTreeToggle<CR>
 
 let g:neocomplcache_enable_at_startup = 1
 let g:DisableAutoPHPFolding = 1
+let NERDTreeShowBookmarks = 1
 
 " Custom Config
 syntax on
@@ -18,5 +19,8 @@ set smartindent
 let mapleader = "g"
 set hlsearch
 set incsearch
+set nobackup
+set nowritebackup
+set noswapfile
 
 colorscheme slate
